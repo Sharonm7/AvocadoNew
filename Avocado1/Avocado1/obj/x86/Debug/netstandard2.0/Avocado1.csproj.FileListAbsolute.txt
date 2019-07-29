@@ -1,0 +1,14 @@
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\bin\x86\Debug\netstandard2.0\Avocado1.deps.json
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\bin\x86\Debug\netstandard2.0\Avocado1.dll
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\bin\x86\Debug\netstandard2.0\ref\Avocado1.dll
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\bin\x86\Debug\netstandard2.0\Avocado1.pdb
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\Avocado1.csprojAssemblyReference.cache
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\Avocado1.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\Avocado1.AssemblyInfoInputs.cache
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\Avocado1.AssemblyInfo.cs
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\Avocado1.dll
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\ref\Avocado1.dll
+C:\Users\adam\source\repos\Avocado1\Avocado1\Avocado1\obj\x86\Debug\netstandard2.0\Avocado1.pdb
